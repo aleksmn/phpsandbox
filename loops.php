@@ -11,24 +11,31 @@
 
   <?php
     
-    // for loop
-    for($i = 0; $i <= 5; $i++) {
-      echo "For loop ... $i<br>";
-    }
+    // // for loop
+    // for($i = 0; $i <= 5; $i++) {
+    //   echo "For loop ... $i<br>";
+    // }
 
 
     // while loop
-    $x = 0;
-    while($x <= 5) {
-      echo "While loop ... $x<br>";
-      $x++;
-    }
+    // $x = 0;
+    // while($x <= 5) {
+    //   echo "While loop ... $x<br>";
+    //   $x++;
+    // }
 
-    // foreach loop
-    $values = array(1, 2, 3, 4, 5);
-    foreach($values as $value) {
-      echo "Foreach loop ... $value<br>";
-    }
+    // // foreach loop
+    // $values = array(1, 2, 3, 4, 5);
+    // foreach($values as $value) {
+    //   echo "Foreach loop ... $value<br>";
+    // }
+
+$letters = array('a', 'b', 'c', 'd');
+
+while ($letters) {
+  echo "OK<br>";
+}
+
 
   ?>
 

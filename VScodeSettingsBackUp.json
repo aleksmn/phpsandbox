@@ -1,0 +1,44 @@
+{
+  "window.menuBarVisibility": "toggle",
+  "window.zoomLevel": 1,
+  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "none",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+  "editor.multiCursorModifier": "alt",
+  "workbench.activityBar.visible": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Monokai",
+  "diffEditor.ignoreTrimWhitespace": true,
+
+  "workbench.colorCustomizations": {
+      "[Monokai]": {
+          "editor.background": "#070707",
+          "editorIndentGuide.background": "#181818",
+          "editorLineNumber.foreground": "#363636",
+          "editorLineNumber.activeForeground": "#707070"
+      },
+      "[Monokai High Contrast]": {
+          "editorIndentGuide.background": "#181818",
+          "editorLineNumber.foreground": "#363636",
+          "editorLineNumber.activeForeground": "#707070"
+      },
+      "[Atom One Dark]": {
+          "editor.background": "#070707",
+          "editorIndentGuide.background": "#181818",
+          "editorLineNumber.foreground": "#363636",
+          "editorLineNumber.activeForeground": "#707070"
+      }
+  },
+  "git.confirmSync": false,
+  "editor.renderControlCharacters": false,
+  "liveServer.settings.donotVerifyTags": true
+
+}  
+  
